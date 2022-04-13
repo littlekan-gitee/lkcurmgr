@@ -1,7 +1,7 @@
 {
   "name":"LittleKan Cursor Manager Store",
   "short_name":"LKCM Store",
-  "start_url":"/#/",
+  "start_url":"/store/#/",
   "display":"standalone",
   "icons":[
     {
